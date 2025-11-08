@@ -6,4 +6,4 @@
 
 ### Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naylor-Services&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylor-oficia&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
