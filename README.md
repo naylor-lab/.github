@@ -6,7 +6,7 @@ I'm a developer focused on **[i'm , e.g. Back-end with C, C++ and Go]**.
 
 * 🔭 I'm currently working on: **
 
-* <a href="github.com/naylor-lab/Lain-Iwakura">[Lain-Iwakura]</a>**
+<a href="github.com/naylor-lab/Lain-Iwakura">[Lain-Iwakura]</a>**
 
 ### Estatísticas do GitHub
 
